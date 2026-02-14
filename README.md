@@ -665,7 +665,7 @@ All 6 models trained successfully with excellent results:
    - Share with others
    - App is live in minutes!
 
-**Example URL:** `https://ml-animals-classifier.streamlit.app`
+** URL:** `https://mlassignment2latest-dwtnkh7hjfyy7zkukxnviz.streamlit.app/`
 
 ---
 
